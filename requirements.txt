@@ -1,0 +1,11 @@
+pycocotools
+opencv-python
+scikit-learn
+easydict
+pyyaml
+causal-conv1d==1.1.1
+mamba-ssm
+torchinfo
+timm
+numba
+json_tricks

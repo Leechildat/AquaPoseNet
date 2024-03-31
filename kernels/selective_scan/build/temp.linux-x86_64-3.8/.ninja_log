@@ -1,0 +1,10 @@
+# ninja log v5
+30	26344	1709665156210549500	/mnt/d/PycharmProjects/keypoints_fish/kernels/selective_scan/build/temp.linux-x86_64-3.8/csrc/selective_scan/cus/selective_scan_core_fwd.o	62a29457f665062d
+23	47987	1709665177839116000	/mnt/d/PycharmProjects/keypoints_fish/kernels/selective_scan/build/temp.linux-x86_64-3.8/csrc/selective_scan/cus/selective_scan.o	b50a45a39fecb62e
+26	68558	1709665198406429600	/mnt/d/PycharmProjects/keypoints_fish/kernels/selective_scan/build/temp.linux-x86_64-3.8/csrc/selective_scan/cus/selective_scan_core_bwd.o	2d46d9a12c2d5fb4
+37	20548	1709665221664992400	/mnt/d/PycharmProjects/keypoints_fish/kernels/selective_scan/build/temp.linux-x86_64-3.8/csrc/selective_scan/cusndstate/selective_scan_core_fwd.o	39bd0f3fe4c549c9
+39	41057	1709665242162999800	/mnt/d/PycharmProjects/keypoints_fish/kernels/selective_scan/build/temp.linux-x86_64-3.8/csrc/selective_scan/cusndstate/selective_scan_ndstate.o	1781758d3bf3da33
+35	65840	1709665266939827500	/mnt/d/PycharmProjects/keypoints_fish/kernels/selective_scan/build/temp.linux-x86_64-3.8/csrc/selective_scan/cusndstate/selective_scan_core_bwd.o	40a762caab4e8557
+35	31735	1709665300896444800	/mnt/d/PycharmProjects/keypoints_fish/kernels/selective_scan/build/temp.linux-x86_64-3.8/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	aa58a49ec6c7d5fe
+38	41083	1709665310260552500	/mnt/d/PycharmProjects/keypoints_fish/kernels/selective_scan/build/temp.linux-x86_64-3.8/csrc/selective_scan/cusoflex/selective_scan_oflex.o	8a66039d6cdf4211
+34	102135	1709665371306883900	/mnt/d/PycharmProjects/keypoints_fish/kernels/selective_scan/build/temp.linux-x86_64-3.8/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	8e3cef1ec08c9cc
